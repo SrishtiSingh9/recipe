@@ -1,0 +1,150 @@
+# recipe
+#simple recipe website
+chocolate_cake.html
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Chocolate Cake Recipe</title>
+  <link rel="stylesheet" href="style.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <script src="https://kit.fontawesome.com/fd75726556.js" crossorigin="anonymous"></script>
+  <style>
+    footer table td {
+      color: #ebd8d8;
+    }
+
+    footer table td a {
+      color: yellow;
+    }
+
+    footer table td font {
+      color: #ebd8d8;
+    }
+  </style>
+</head>
+
+<body>
+  <center>
+    <div style="background-color:#a85759" ;>
+      <font class=hehe color=#ebd8d8>Chocolate Cake Recipe 🎂<br></font>
+    </div>
+
+    <div class="h7"
+      style="background-image: url('https://www.feedingboys.co.uk/wp-content/uploads/2017/05/ultimate-chocolate-cake-landscape-2-1-of-1.jpg');background-repeat:no-repeat;background-size: 100% 100%">
+      <font class=he size=100px class=col-lg-4 col-md-6><b><br>Sweeten &nbsp<br>Your &nbsp &nbsp<br>Celebration</b>
+      </font>
+    </div><br>
+  </center>
+  <center>
+
+    <div class="navbar">
+      <table class="right">
+        <tr>
+          <td>
+            <h3 style="color:#a85759" ;><b>Instructions</b></h3>
+            <ol type="none">
+              <li>Preheat your oven to 350°F (175°C). Grease and flour two 9-inch round cake pans.</li>
+              <li>In a large mixing bowl, combine flour, sugar, cocoa powder, baking powder, baking soda, and salt. Mix
+                well.</li>
+              <li>Add eggs, milk, vegetable oil, and vanilla extract to the dry ingredients. Mix until well combined.
+              </li>
+              <li>Gradually add boiling water to the batter, stirring continuously. The batter will be thin, but that's
+                okay.</li>
+              <li>Pour the batter evenly into the prepared cake pans.</li>
+              <li>Bake in the preheated oven for 30 to 35 minutes, or until a toothpick inserted into the center comes
+                out clean.</li>
+              <li>Remove the cakes from the oven and let them cool in the pans for 10 minutes. Then transfer them to a
+                wire rack to cool completely.</li>
+              <li>Once the cakes are completely cooled, you can frost and decorate them as desired.</li>
+              <li>Slice, serve, and enjoy your homemade chocolate cake!</li>
+            </ol>
+
+          </td>
+          <td>
+
+            <h3 style="color:#a85759" ;><b>&nbsp &nbsp Ingredients</b></h3>
+            <ul type="none">
+              <li>2 cups all-purpose flour</li>
+              <li>1 3/4 cups granulated sugar</li>
+              <li>3/4 cup unsweetened cocoa powder</li>
+              <li>1 1/2 teaspoons baking powder</li>
+              <li>1 1/2 teaspoons baking soda</li>
+              <li>1 teaspoon salt</li>
+              <li>2 large eggs</li>
+              <li>1 cup milk</li>
+              <li>1/2 cup vegetable oil</li>
+              <li>2 teaspoons vanilla extract</li>
+              <li>1 cup boiling water</li>
+            </ul>
+          </td>
+        </tr>
+      </table><br><br>
+
+      <footer style="background-color:#a85759;color:#ebd8d8;"><br>
+        <table cellspacing="80px" width="1100">
+          <tr>
+            <td color="#ebd8d8"><b><u>Useful links</u></b></td>
+            <td><b><u>Address</u></b></td>
+            <td><b>Contact Us</b></u></td>
+            <td><b style="color:#ebd8d8;"><u>Follow Us</u></b></td>
+          </tr>
+
+          <tr>
+            <td>Terms & Conditions</td>
+            <td><a
+                href=https://www.google.com/maps/search/Madhu+Industrial,Budhkar+Marg,+Maharashtra/@19.005678,72.823577,17z/data=!3m1!4b1>
+                <font color=black>Madhu Industrial,Budhkar Marg,<br>Maharashtra
+              </a></font>
+            </td>
+            <td><a href="email:" info@1441cooking.com">info@1441cooking.com</a></td>
+            <td>
+              <a href=https://www.facebook.com /><i class="fa-brands fa-facebook fa-2xl" style="color: white;"></i></a>
+              <a href=https://www.instagram.com /><i class="fa-brands fa-instagram fa-2xl"
+                style="color: white;"></i></a>
+              <a
+                href=https://twitter.com/i/flow/login?input_flow_data=%7B%22requested_variant%22%3A%22eyJsYW5nIjoiZW4ifQ%3D%3D%22%7D><i
+                  class="fa-brands fa-twitter fa-2xl" style="color: white;"></i></a>
+            </td>
+          </tr>
+
+          <tr>
+            <td>Refund Policy</td>
+            <td></td>
+            <td><a href="tel:6215266266">
+                <font color=black>6215266266
+              </a></font>
+            </td>
+          </tr>
+
+        </table><br>
+      </footer>
+  </center>
+
+
+</body>
+
+</html>
+
+
+style.css
+
+.h7{
+ height: 650px;
+  width: 85%;
+  text-align:right;
+  color:#4c4e4c;
+}
+.he{
+font-size: 90px;
+}
+.ha {
+font-size: 90px;
+}
+.hehe{
+  font-size: 60px;
+}
